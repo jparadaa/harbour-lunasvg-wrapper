@@ -1,0 +1,15 @@
+-ogenerate_svg
+-cpp
+-w3
+
+-incpath=C:\lunasvg\include
+
+-LC:\lunasvg\build_static
+-LC:\lunasvg\build_static\plutovg
+
+-llunasvg
+-lplutovg
+
+generate_svg.prg
+aura_charts.prg
+hbwin.hbc

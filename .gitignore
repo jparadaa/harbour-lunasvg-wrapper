@@ -1,0 +1,5 @@
+# Carpeta de compilación Harbour (hbmk)
+.hbmk/
+
+# Ejecutables
+*.exe
