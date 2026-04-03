@@ -3,3 +3,5 @@
 
 # Ejecutables
 *.exe
+
+generate_svg.cpp
